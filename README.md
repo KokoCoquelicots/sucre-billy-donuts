@@ -13,12 +13,12 @@ Ce site vitrine propose une sélection gourmande de donuts sucrés. Il permet de
 
 ## Languages et outils utilisés
 
-<img src="https://img.icons8.com/ios-filled/50/html-5.png" alt="HTML5" width="30"/> 
-<img src="https://img.icons8.com/ios-filled/50/css3.png" alt="CSS3" width="30"/> 
-<img src="https://img.icons8.com/ios-filled/50/php.png" alt="PHP" width="30"/> 
-<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="30"/>
-<img src="https://img.icons8.com/ios-filled/50/code.png" alt="Twig" width="30"/>  
-<img src="https://img.icons8.com/ios-filled/50/phpmyadmin.png" alt="phpMyAdmin" width="30"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-FFDB00?logo=twig&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F47721?logo=phpmyadmin&logoColor=white)
 
 Projet réalisé seule, en utilisant :
 
