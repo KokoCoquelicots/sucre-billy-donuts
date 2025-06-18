@@ -1,5 +1,5 @@
 # 🍩 Sucré Billy Donuts - Site fictif
-![Image du projet](sucrebilly.png)
+![Image du projet](sucrebilly.PNG)
 
 Bienvenue sur Sucré Billy Donuts, un site fictif développé dans le cadre d'un projet universitaire en première année d'études.
 
