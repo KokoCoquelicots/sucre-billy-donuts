@@ -33,4 +33,4 @@ Projet réalisé seule, en utilisant :
 
  Découvrez le site en vidéo :
 
-[![Sucré Billy Donuts - Vidéo Démo](https://youtu.be/tqCN1DR-f3Q)]
+[Sucré Billy Donuts - Vidéo Démo](https://youtu.be/tqCN1DR-f3Q)
